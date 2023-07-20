@@ -1,4 +1,4 @@
-# Click the cookie
+# Click the cookie (2022)
 
 ## FR 
 Petit projet pour un dimanche pluvieux : cliquer sur un cookie le plus rapidement possible pour le faire voyager dans l'espace.
